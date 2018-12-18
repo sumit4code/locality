@@ -1,4 +1,4 @@
-package com.area.service.usermanagement;
+package com.mycode.locality.usermanagement;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

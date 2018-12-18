@@ -1,4 +1,4 @@
-package com.area.service.usermanagement;
+package com.mycode.locality.usermanagement;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
